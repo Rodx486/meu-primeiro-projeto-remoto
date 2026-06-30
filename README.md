@@ -5,3 +5,8 @@ Hoje, sou estudante dedicado de Análise e Desenvolvimento de Sistemas
 
 -- Aula 3 --
 Iremos estudar conflitos.
+
+
+-- Aula 3 parte 2 --
+
+Nessa parte, vamos estudar gitflow, uma maneira de organizar o projeto e evitar problemas.
